@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-mezcla-digital.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Mezcla digital | Lynx Pardelle",
+    "description": "Desarrolla una mezcla desde el balance inicial hasta los ajustes de claridad, profundidad y dinámica. Revisa qué ocupa cada instrumento y cuándo conviene agruparlo con otros.",
+    "canonical": "https://masterclass-mezcla-digital.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-produccion.webp"
+    }
+  }
+}
