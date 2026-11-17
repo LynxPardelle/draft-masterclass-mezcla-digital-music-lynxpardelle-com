@@ -7,12 +7,64 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Mezcla digital | Lynx Pardelle",
-    "description": "Desarrolla una mezcla desde el balance inicial hasta los ajustes de claridad, profundidad y dinámica. Revisa qué ocupa cada instrumento y cuándo conviene agruparlo con otros.",
+    "title": "Masterclass de mezcla digital y premezcla | Lynx Pardelle",
+    "description": "Practica balance, profundidad, EQ correctiva, transientes, sidechain y ruteo híbrido. Masterclass de 3 a 4 horas con conocimientos previos.",
     "canonical": "https://masterclass-mezcla-digital.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-mezcla-digital-r2-5ce4343011521e6c.webp",
+      "title": "Masterclass de mezcla digital y premezcla | Lynx Pardelle",
+      "description": "Practica balance, profundidad, EQ correctiva, transientes, sidechain y ruteo híbrido. Masterclass de 3 a 4 horas con conocimientos previos.",
+      "url": "https://masterclass-mezcla-digital.music.lynxpardelle.com/",
+      "imageAlt": "Consola y monitores de mezcla en una sala tratada."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de mezcla digital y premezcla | Lynx Pardelle",
+      "description": "Practica balance, profundidad, EQ correctiva, transientes, sidechain y ruteo híbrido. Masterclass de 3 a 4 horas con conocimientos previos.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-mezcla-digital-r2-5ce4343011521e6c.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-mezcla-digital.music.lynxpardelle.com/#webpage",
+        "name": "Mezcla digital",
+        "description": "Practica balance, profundidad, EQ correctiva, transientes, sidechain y ruteo híbrido. Masterclass de 3 a 4 horas con conocimientos previos.",
+        "url": "https://masterclass-mezcla-digital.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-mezcla-digital.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-mezcla-digital.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Mezcla digital",
+        "description": "Practica balance, profundidad, EQ correctiva, transientes, sidechain y ruteo híbrido. Masterclass de 3 a 4 horas con conocimientos previos.",
+        "url": "https://masterclass-mezcla-digital.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-mezcla-digital-r2-5ce4343011521e6c.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "coursePrerequisites": "Se requieren conocimientos previos.",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-mezcla-digital.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
